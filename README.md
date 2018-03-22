@@ -7,10 +7,11 @@ WebView + JavaScript 方式的实现一个android富文本编辑器
 这里的功能需要根据需求实现，通过insertImage传入一个URL或者本地图片路径都可以，这里用户可以自己调用本地相或者拍照获取图片，传图本地图片路径，也可以将本地图片路径上传到服务器（自己的服务器或者免费的七牛服务器），返回在服务端的URL地址，将地址传如即可（我这里传了一张写死的图片URL，如果你插入的图片不现实，请检查你是否添加网络请求权限<uses-permission android:name="android.permission.INTERNET" />）
 
 ![](https://upload-images.jianshu.io/upload_images/3278692-937a13db04c28c9f.gif?imageMogr2/auto-orient/strip)
-![](https://upload-images.jianshu.io/upload_images/3278692-12fa1812a1d3281f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/3278692-fea848524c590e25.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![](https://upload-images.jianshu.io/upload_images/3278692-499813e1d4b182a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/3278692-cdad0058cc5f6ace.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![](https://upload-images.jianshu.io/upload_images/3278692-459715e21b3f11de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/3278692-567b07e894e3f59b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![](https://upload-images.jianshu.io/upload_images/3278692-43019d9460d7c892.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/3278692-1190ceb69c0bebf9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
